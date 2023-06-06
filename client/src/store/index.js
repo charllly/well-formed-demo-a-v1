@@ -7,7 +7,6 @@ import * as models from './models'
 const persistConfig = {
   key: 'root',
   storage,
-  whitelist: ['events', 'teams'],
 }
  
 const store = init({
