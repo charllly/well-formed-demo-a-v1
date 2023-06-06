@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "description": "Well-formed | A.Team for Awesome Hackathons",
-  "proxy": "http://localhost:5000",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
